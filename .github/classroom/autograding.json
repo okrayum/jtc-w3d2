@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "getUserInfo.test",
+      "setup": "npm install --save-dev jest",
+      "run": "npx jest tests/getUserInfo.test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
